@@ -62,16 +62,7 @@ p{
 .menu-content a:hover {
     background-color: #ddd;
 }
-#goback {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
+
 .info{
     background-color: white;
     display: flex;
